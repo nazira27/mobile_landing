@@ -203,9 +203,6 @@
         background-size: cover;
     }
 
-    /*.screenshot-carousel .item{
-		width: 160px
-	}*/
     .contact-right {
         display: none;
     }
@@ -244,12 +241,3 @@
         margin-top: 0;
     }
 }
-
-/*@media (max-width: 1366px){
-
-    .screenshot-contain {
-    height: 500px;
-	-webkit-background-size: unset;
-	background-size: unset;
-    }
-}*/
